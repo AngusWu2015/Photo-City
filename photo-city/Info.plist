@@ -39,5 +39,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>需要您的位置搜尋圖片</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>需要您的位置搜尋圖片</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>需要您的位置搜尋圖片</string>
 </dict>
 </plist>
